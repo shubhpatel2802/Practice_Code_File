@@ -1,0 +1,13 @@
+import turtle as t
+t.bgcolor=("black")
+t.pencolor=("white")
+t.fillcolor("red")
+t.begin_fill()
+t.fd(100)
+t.rt(90)
+t.fd(100)
+t.rt(90)
+t.fd(100)
+t.rt(90)
+t.fd(100)
+t.end_fill()
