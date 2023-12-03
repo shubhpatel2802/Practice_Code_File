@@ -1,7 +1,7 @@
-'''
+
 #Break Statement
 
-=>EX:-1
+#=>EX:-1
 
 fruits = ["apple", "banana", "cherry"]
 for i in fruits:
@@ -9,7 +9,7 @@ for i in fruits:
     break
   print(i)
 
-=>EX:-2
+#=>EX:-2
 
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
@@ -47,5 +47,3 @@ i = 1
 while i < 6:
   print(i)
   i += 1
-
-'''
